@@ -8,7 +8,7 @@ variable "vpc_cidr" {
   description = "default CIDR range of the VPC"
 }
 variable "aws_region" {
-  default = "apac-south-1"
+  default = "ap-south-1"
   description = "aws region"
 }
 
